@@ -1,0 +1,15 @@
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MySql.Data.dll
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MySql.Data.xml
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\DBMSProject.vbprojResolveAssemblyReference.cache
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\DBMSProject.vbproj.GenerateResource.Cache
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\DBMSProject.vbproj.CoreCompileInputs.cache
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+c:\users\hi\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form2.resources
