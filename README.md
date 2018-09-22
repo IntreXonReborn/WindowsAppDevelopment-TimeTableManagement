@@ -4,9 +4,6 @@
 Project Domain:
 	Visual Basic (Windows Application Form Development with Visual Studio)
 
-Project Status:
-	Incomplete
-
 Project Description:
 	Database Management System implemented using XAMPP Database in PHPMyAdmin (XAMPP Database.sql file).
 	Time table Management System for VIT Faculties.
